@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "217726233467",
+    "firebase_url": "https://thrift-haven-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "thrift-haven",
+    "storage_bucket": "thrift-haven.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217726233467:android:e273d67171de140310abde",
+        "android_client_info": {
+          "package_name": "com.company.mad2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXMQ-FFhE3DSE71kkGYCOoCvEABbm1lws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
